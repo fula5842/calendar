@@ -1,0 +1,17 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fula5842/calendar.git",
+  "author": "fula <fula5842@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "vue": "^2.5.16",
+    "webpack": "^4.8.3",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.3"
+  }
+}
